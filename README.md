@@ -10,4 +10,5 @@ In this assignment, a Yelp data set was processed in order to efficiently extrac
 ## Results
 
 Meaningful words that  represent each business are determined by their term frequency-inverse document frequency (td-if) score: number of times a specific word appears in reviews for a document / number of documents in the entire set of reviews for all restaurants that contain the specific word. The function prints the 30 words with the highest td-if score the 10 businesses with the longest reviews. 
+
 <img src = "https://kristentang.github.io/photos/yelp.jpg">
